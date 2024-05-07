@@ -13,6 +13,8 @@ The Medicine Assistance System is a Java-based project that allows users to requ
 ## Technologies Used
 - Java
 - MySQL (for database storage)
+- HTML
+- CSS
 
 
 ## Usage
